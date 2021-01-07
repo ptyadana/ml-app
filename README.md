@@ -16,6 +16,8 @@ Step 2: Try adjusting the hyperparameters
 
 Note: If you are using your own csv, please make sure to format Last column as Target/Label.
 
+![ml-app.gif](ml-app.gif)
+
 ### References
 This my first ever streamlit app is based on Data Professor's [How to Build a Machine Learning App](https://www.youtube.com/watch?v=eT3JMZagMnE) with a few tweaks.
 
